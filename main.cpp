@@ -17,6 +17,7 @@ int x;
 x=0;
 int y;
 y=0;
+y:=x;
 cout « "* Create Object 1base" « endl;
 Base base;
 cout « "* Call method func() for object base" « endl;
