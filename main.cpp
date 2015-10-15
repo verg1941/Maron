@@ -14,6 +14,7 @@ void func() { cout « "Function1 func() of class Base\n"; }
 int main()
 {
 int x;
+x=0;
 cout « "* Create Object 1base" « endl;
 Base base;
 cout « "* Call method func() for object base" « endl;
