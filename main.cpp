@@ -13,7 +13,7 @@ void func() { cout « "Function1 func() of class Base\n"; }
 
 int main()
 {
-cout « "* Create Object base" « endl;
+cout « "* Create Object 1base" « endl;
 Base base;
 cout « "* Call method func() for object base" « endl;
 base.func();
